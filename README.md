@@ -13,7 +13,7 @@ The system detects pointer movement using a Hall Effect sensor and processes the
 - Embedded visualization
 - Industrial pressure monitoring
 - Analog gauge digitization
-- 
+  
 ## Hardware Components
 - ESP32
 - Hall Effect Sensor
