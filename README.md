@@ -36,7 +36,5 @@ This repository is intended to showcase the project architecture, methodology, i
 
 ## Author
 Shanmuga Priya R
-
 B.Tech Electronics and Communication Engineering
-
 SASTRA Deemed University
